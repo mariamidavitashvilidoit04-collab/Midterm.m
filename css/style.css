@@ -388,6 +388,9 @@ footer img {
 .tools {
   margin-top: 100px;
 }
+
+.card h4 {
+}
 .experience-timeline {
   margin-top: 100px;
   display: flex;
